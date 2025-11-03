@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import FloatingCallButton from "@/components/FloatingCallButton";
 import BookingForm from "@/components/BookingForm";
+import Location from "@/components/Location";
 import SEO from "@/components/SEO";
 
 const ContactPage = () => {
@@ -16,6 +17,7 @@ const ContactPage = () => {
       <main className="min-h-screen bg-background">
         <Header />
         <div className="pt-20">
+          <Location />
           <BookingForm />
         </div>
         <Footer />
