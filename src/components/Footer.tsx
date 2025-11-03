@@ -43,12 +43,37 @@ const Footer = () => {
 
           <div>
             <h3 className="text-gold text-xl font-bold mb-4">Opening Hours</h3>
-            <div className="space-y-2 text-muted-foreground">
+            <div className="space-y-2 text-muted-foreground mb-4">
               <div className="flex items-center gap-2">
                 <Clock className="h-5 w-5 text-gold shrink-0" />
                 <span>Open 24 Hours</span>
               </div>
               <p className="ml-7">Monday - Sunday</p>
+            </div>
+            
+            {/* Location Map */}
+            <div className="mt-4">
+              <div className="relative w-full aspect-square max-w-[250px] rounded-lg overflow-hidden shadow-lg border-2 border-gold/20">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.4234567890123!2d77.11234567890123!3d28.5412345678901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDMyJzI4LjQiTiA3N8KwMDYnNDQuNCJF!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+                  width="100%"
+                  height="100%"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Russian Spa Centre Location Map"
+                  className="grayscale-[0.2]"
+                />
+              </div>
+              <a
+                href="https://maps.app.goo.gl/2LTFUUiwPaqB2Y1c7"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1 text-sm text-gold hover:text-gold-light transition-smooth mt-2"
+              >
+                View larger map
+              </a>
             </div>
           </div>
         </div>
