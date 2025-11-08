@@ -24,10 +24,10 @@ const GalleryPage = () => {
   return (
     <>
       <SEO 
-        title="Gallery - Luxury Spa Facilities | Russian Spa Centre NCR"
-        description="View our premium spa facilities, treatment rooms, and authentic Russian Banya. Experience luxury and tranquility at NCR's finest spa centre in Mahipalpur."
-        keywords="spa gallery, luxury spa photos, russian banya images, spa facilities ncr, wellness centre gallery"
-        canonical="https://russianspacentre.lovable.app/gallery"
+        title="Gallery - Luxury Spa Facilities in Mahipalpur | Near Delhi Airport"
+        description="View our premium spa facilities, treatment rooms & authentic Russian Banya in Mahipalpur. Experience luxury near Delhi airport. Open 24/7."
+        keywords="spa gallery Mahipalpur, luxury spa photos Delhi, Russian Banya images, spa facilities near airport, wellness centre gallery NCR"
+        canonical="https://mahipalpurspacentre.com/gallery"
       />
       <main className="min-h-screen bg-background">
         <Header />

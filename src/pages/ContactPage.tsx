@@ -9,10 +9,10 @@ const ContactPage = () => {
   return (
     <>
       <SEO 
-        title="Contact Us - Book Your Spa Appointment | Russian Spa NCR"
-        description="Book your appointment at Russian Spa Centre Mahipalpur. Call +91 98189 31148 or fill our online form. Open daily 10 AM - 10 PM. Visit us in Delhi NCR."
-        keywords="book spa appointment, contact russian spa, spa booking mahipalpur, russian spa phone number, wellness centre contact"
-        canonical="https://russianspacentre.lovable.app/contact"
+        title="Contact & Book Spa Appointment | Best Spa Mahipalpur | Near Delhi Airport"
+        description="Book your luxury spa appointment in Mahipalpur. Call +91 98189 31148 or WhatsApp. Open 24/7. Near Delhi airport. Easy booking, instant confirmation."
+        keywords="book spa Mahipalpur, spa appointment Delhi airport, contact spa Mahipalpur, Russian spa phone number, WhatsApp booking spa"
+        canonical="https://mahipalpurspacentre.com/contact"
       />
       <main className="min-h-screen bg-background">
         <Header />

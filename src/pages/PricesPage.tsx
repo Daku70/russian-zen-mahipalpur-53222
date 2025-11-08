@@ -7,10 +7,10 @@ const PricesPage = () => {
   return (
     <>
       <SEO 
-        title="Spa Prices & Packages - Affordable Luxury | Russian Spa NCR"
-        description="Transparent pricing for premium spa services. Russian Banya ₹3,500, Deep Tissue ₹2,500, Couples Package ₹5,500. Best value in NCR. Call +91 98189 31148"
-        keywords="spa prices delhi, massage rates ncr, russian banya cost, affordable spa packages, luxury spa deals mahipalpur"
-        canonical="https://russianspacentre.lovable.app/prices"
+        title="Spa Prices & Packages in Mahipalpur | Affordable Luxury Near Delhi Airport"
+        description="Transparent spa pricing in Mahipalpur. Body massage ₹2,000+, Russian Banya ₹3,500, Couples Package ₹5,500. Best value near Delhi airport. Call +91 98189 31148"
+        keywords="spa prices Mahipalpur, massage rates Delhi airport, Russian Banya cost, affordable spa packages NCR, luxury spa deals near airport"
+        canonical="https://mahipalpurspacentre.com/prices"
       />
       <main className="min-h-screen bg-background">
       <Header />

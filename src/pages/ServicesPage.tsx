@@ -8,10 +8,10 @@ const ServicesPage = () => {
   return (
     <>
       <SEO 
-        title="Spa Services - Russian Banya, Massage & Wellness | NCR Mahipalpur"
-        description="Explore our premium spa services: Russian Banya, Deep Tissue, Swedish, Aromatherapy, Hot Stone massage & more. Expert therapists. Book: +91 98189 31148"
-        keywords="russian banya, deep tissue massage, aromatherapy massage, couples spa, swedish massage, hot stone therapy, spa services ncr"
-        canonical="https://russianspacentre.lovable.app/services"
+        title="Spa Services in Mahipalpur | Russian Massage, Body Spa | Near Delhi Airport"
+        description="Best spa services in Mahipalpur: Russian Banya, body massage, deep tissue, Thai therapy, couples spa. Airport-friendly location. Open 24/7. Book: +91 98189 31148"
+        keywords="body massage Mahipalpur, Russian Banya Delhi, spa services near airport, deep tissue massage NCR, couples spa Mahipalpur, Thai massage Delhi"
+        canonical="https://mahipalpurspacentre.com/services"
       />
       <main className="min-h-screen bg-background">
         <Header />

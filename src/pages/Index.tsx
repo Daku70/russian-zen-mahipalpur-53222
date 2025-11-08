@@ -11,10 +11,10 @@ const Index = () => {
   return (
     <>
       <SEO 
-        title="Russian Spa Centre | Best Spa in NCR | Mahipalpur Delhi"
-        description="Top-rated Russian Spa Centre in NCR offering authentic Russian Banya, therapeutic massages & luxury spa treatments. Expert therapists. Book now: +91 98189 31148"
-        keywords="russian spa mahipalpur, russian banya delhi, best spa in ncr, massage centre mahipalpur, luxury spa delhi, therapeutic massage"
-        canonical="https://russianspacentre.lovable.app/"
+        title="Best Russian Spa in Mahipalpur | Body Massage Near Delhi Airport"
+        description="Experience luxury at the best spa in Mahipalpur. Russian body massage, Thai therapy, couples spa near Delhi NCR airport. Open 24/7. Book now: +91 98189 31148"
+        keywords="best spa in Mahipalpur, Russian spa Delhi NCR, body massage Mahipalpur, spa near Delhi airport, luxury spa Mahipalpur, couples spa Delhi"
+        canonical="https://mahipalpurspacentre.com/"
       />
       <main className="min-h-screen bg-background">
         <Header />

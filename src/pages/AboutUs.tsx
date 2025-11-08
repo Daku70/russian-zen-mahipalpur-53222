@@ -8,10 +8,10 @@ const AboutUs = () => {
   return (
     <>
       <SEO 
-        title="About Us - Best Spa in NCR | Russian Spa Centre Mahipalpur"
-        description="Discover why Russian Spa Centre is NCR's premier wellness destination. Expert therapists, authentic Russian Banya, luxury facilities & exceptional service since 2010."
-        keywords="best spa ncr, russian spa mahipalpur, luxury spa delhi, wellness centre, authentic russian banya"
-        canonical="https://russianspacentre.lovable.app/about"
+        title="About Us - Best Spa in Mahipalpur | Why Choose Us | Near Delhi Airport"
+        description="Discover why Mahipalpur Spa Centre is the best spa near Delhi airport. Expert therapists, luxury Russian massage, authentic Banya, couples spa. Trusted since 2010."
+        keywords="best spa Mahipalpur, Russian spa near airport, luxury spa Delhi NCR, wellness centre Mahipalpur, authentic Russian massage"
+        canonical="https://mahipalpurspacentre.com/about"
       />
       <main className="min-h-screen bg-background">
         <Header />
