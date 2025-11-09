@@ -101,7 +101,16 @@ const Services = () => {
               <div 
                 className="h-48 bg-cover bg-center"
                 style={{ backgroundImage: `url(${service.image})` }}
-              />
+                role="img"
+                aria-label={`${service.title} treatment at Russian Spa Centre`}
+              >
+                <img 
+                  src={service.image} 
+                  alt={`${service.title} - ${service.description.substring(0, 100)}...`}
+                  className="sr-only"
+                  loading="lazy"
+                />
+              </div>
               <CardHeader>
                 <CardTitle className="text-gold text-2xl">{service.title}</CardTitle>
                 <CardDescription className="text-muted-foreground text-base">
